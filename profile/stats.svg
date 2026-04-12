@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">SlavikusVOG's GitHub Stats, Rank: C</title>
+        <title id="titleId">SlavikusVOG's GitHub Stats, Rank: C+</title>
         <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 13, Total PRs: 32, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 220.35134814305914;
+        stroke-dashoffset: 219.478683517062;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
+          C+
         </text>
       
         </g>
